@@ -1,3 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@400;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Hind&display=swap');
 
+:root {
+    --dark-green: #1a3409;
+    --onyx: #444444;
+    --off-white: #F6F3F3;
+    --light-grey: #E0DFE2;
+    --bright-green: #1E855C;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Hind, sans-serif;
+    font-weight: 400;
+    color: var(--onyx);
+}
