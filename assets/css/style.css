@@ -152,6 +152,34 @@ h3 {
     margin-top: 10px;
 }
 
+/* Introduction section styles */
+
+#intro-section {
+    background: linear-gradient(to top, #1a3409e6, #444444e6), url('../images/Intro-image.jpg') no-repeat top center;
+    height: 560px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+
+#intro-area {
+    margin:0 auto;
+    margin-top: 4%;
+    width: 60%
+}
+
+#intro-area  h2 {
+    text-align: center;
+    color: var(--bright-green);
+}
+
+#intro-area  p {
+    text-align: left;
+    color: var(--light-grey);
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
 
 
 @media (max-width: 576px) {
