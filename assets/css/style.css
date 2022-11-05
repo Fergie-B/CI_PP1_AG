@@ -20,3 +20,30 @@ body {
     font-weight: 400;
     color: var(--onyx);
 }
+
+/* headings and logo styling */
+
+h1, h2 {
+    font-family: Teko, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: var(--dark-green);
+}
+
+.logo {
+    float: left;
+    margin-left: 60px;
+}
+
+/* navigation link styling */
+
+.apex-nav {
+    background-color: var(--light-grey);
+    height: 100px;
+}
+
+.apex-collapse {
+    flex-grow: 0;
+    margin-right: 60px;
+}
+
