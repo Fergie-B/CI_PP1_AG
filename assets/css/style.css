@@ -259,12 +259,8 @@ footer {
 }
 
 .social-networks {
-    text-align: center;
-}
-
-.social-networks li {
-    display: inline;
-    list-style-type: circle;
+    display: flex;
+    list-style-type: none;
 }
 
 .social-networks i {
@@ -275,7 +271,6 @@ footer {
 }
 
 
-
 @media (max-width: 576px) {
     /* Shrink Logo image at mobile size to allow nav bar to fit */
     .logo { 
@@ -283,5 +278,12 @@ footer {
             height: 40px;
             float: left;
             margin-left: 10px;
+    }
+}
+
+@media (max-width: 330px) {
+    /* remove right margin to avoid moving of hamburger menu to second row of navbar */
+    .navbar-brand {
+        margin-right: 0;
     }
 }
