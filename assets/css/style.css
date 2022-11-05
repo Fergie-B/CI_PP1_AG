@@ -54,14 +54,14 @@ h3 {
 
 .apex-nav {
     background-color: var(--light-grey);
-    height: 100px;
+    min-height: 100px;
     font-family: 'Hind', sans-serif;
     color: var(--dark-green);
 }
 
 .apex-collapse {
     flex-grow: 0;
-    margin-right: 60px;
+    
 }
 
 .navbar-light .navbar-nav .nav-link {
