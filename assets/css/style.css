@@ -155,17 +155,16 @@ h3 {
 /* Introduction section styles */
 
 #intro-section {
-    background: linear-gradient(to top, #444444e6, #444444e1), url('../images/Intro-image.jpg') no-repeat top center;
-    height: 560px;
+    background: linear-gradient(to top, #444444e6, #444444e1), url('../images/Intro-image.jpg') no-repeat center center;
+    background-size: cover;
     width: 100%;
-    overflow: hidden;
     position: relative;
 }
 
 
 #intro-area {
     margin:0 auto;
-    margin-top: 6%;
+    padding: 40px 0 40px 0;
     width: 60%
 }
 
@@ -194,6 +193,15 @@ h3 {
     display: block;
     margin: 0 auto;
     margin-top: 10px;
+}
+
+/* Training Plan Section Styling */
+
+.training-plans {
+    height: 560px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
 }
 
 
