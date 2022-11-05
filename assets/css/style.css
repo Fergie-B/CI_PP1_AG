@@ -64,6 +64,15 @@ h1, h2 {
     color: var(--bright-green);
 }
 
+.navbar-light .navbar-toggler {
+    color: var(--bright-green);
+    border-color: var(--bright-green);
+}
+
+.navbar-light .navbar-toggler .navbar-nav-icon {
+    color: var(--bright-green);
+}
+
 @media (max-width: 576px) {
     /* Shrink Logo image at mobile size to allow nav bar to fit */
     .logo { 
