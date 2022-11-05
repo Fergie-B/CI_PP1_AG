@@ -225,10 +225,20 @@ h3 {
 }
 
 .columns {
-    background-color: aqua;
+    background-color: var(--onyx);
+    border: 8px solid var(--bright-green);
     margin-top: 40px;
     height: 300px;
     width: 300px;
+}
+
+
+/* Footer Styles */
+
+footer {
+    height: 180px;
+    width: 100%;
+    background-color: var(--bright-green);
 }
 
 
