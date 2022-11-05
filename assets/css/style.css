@@ -73,6 +73,42 @@ h1, h2 {
     color: var(--bright-green);
 }
 
+/* hero image section styles */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#cover-text h2,h3 {
+    color: var(--off-white)
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.jpg') no-repeat center center;
+
+    /* zoom effect animation for the here image on loading */
+    animation: hero-zoom 5s forwards;
+
+}
+
+/* Level of zoom applied to hero image */
+@keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.05);
+    }
+}
+
+
+
+
 @media (max-width: 576px) {
     /* Shrink Logo image at mobile size to allow nav bar to fit */
     .logo { 
