@@ -186,11 +186,12 @@ h3 {
     font-size: 20px;
     font-family: Hind, sans-serif;
     color: var(--off-white);
-    width: 160px;
+    width: 180px;
     height: 80px;
     padding: 10px;
     background-color: var(--bright-green);
     border-color: var(--dark-green);
+    display: block;
     margin: 0 auto;
     margin-top: 10px;
 }
