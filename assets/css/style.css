@@ -137,7 +137,22 @@ h3 {
 
     position: absolute;
 
+    /* zoom effect animation for the here image on loading */
+    animation: fade-intro 5s forwards;
+
 }
+
+/* Level of zoom applied to hero image */
+@keyframes fade-intro {
+    0% {
+        opacity: 0;
+        transform: translateX(-20px);
+     }
+     100% {
+        opacity: 1;
+        transform: translateX(0);
+     }
+}  
 
 #hero-button {
     font-size: 20px;
@@ -198,9 +213,7 @@ h3 {
 /* Training Plan Section Styling */
 
 #training-plans {
-    height: 560px;
     background-color: var(--onyx);
-    overflow: hidden;
     position: relative;
 }
 
@@ -230,6 +243,11 @@ h3 {
     margin-top: 40px;
     height: 300px;
     width: 300px;
+}
+
+.plans-list {
+    color: var(--light-grey);
+    list-style-type: circle;
 }
 
 
