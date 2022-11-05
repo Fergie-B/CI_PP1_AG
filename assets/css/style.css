@@ -30,6 +30,11 @@ h1, h2 {
     color: var(--dark-green);
 }
 
+h3 {
+    font-family: Teko, sans-serif;
+    color: var(--dark-green);
+}
+
 .logo {
     float: left;
     margin-left: 60px;
@@ -82,7 +87,7 @@ h1, h2 {
     position: relative;
 }
 
-#cover-text h2,h3 {
+#cover-text h2, h3 {
     color: var(--off-white)
 }
 
@@ -106,6 +111,25 @@ h1, h2 {
     }
 }
 
+#cover-text {
+    font-size: 2rem;
+    font-family: Teko, sans-serif;
+    letter-spacing: 2px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 20px;
+
+    background-color: rgba(30, 133, 92, .6);
+
+    bottom: 80px;
+    right: 300px;
+
+    position: absolute;
+
+}
 
 
 
