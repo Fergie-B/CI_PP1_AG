@@ -197,12 +197,36 @@ h3 {
 
 /* Training Plan Section Styling */
 
-.training-plans {
+#training-plans {
     height: 560px;
-    width: 100%;
+    background-color: var(--onyx);
     overflow: hidden;
     position: relative;
 }
+
+.training-area {
+    margin:0 auto;
+    padding: 40px 0 40px 0;
+}
+
+.training-text {
+    display: block;
+    margin: 0 auto;
+}
+
+.training-text h2 {
+    text-align: center;
+}
+
+.columns {
+    background-color: aqua;
+    margin-top: 40px;
+    margin-left: 40px;
+    height: 300px;
+    width: 300px;
+}
+
+
 
 
 @media (max-width: 576px) {
