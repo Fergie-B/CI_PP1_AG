@@ -112,7 +112,7 @@ h3 {
 }
 
 #cover-text {
-    font-size: 2rem;
+    font-size: 130%;
     font-family: Teko, sans-serif;
     letter-spacing: 2px;
 
@@ -129,6 +129,18 @@ h3 {
 
     position: absolute;
 
+}
+
+#hero-button {
+    font-size: 20px;
+    font-family: Hind, sans-serif;
+    color: var(--onyx);
+    width: 160px;
+    height: 40px;
+    padding: 2px;
+    background-color: var(--off-white);
+    border-color: var(--dark-green);
+    margin-left: 40px;
 }
 
 
