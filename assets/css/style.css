@@ -218,10 +218,15 @@ h3 {
     text-align: center;
 }
 
+.plans-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
 .columns {
     background-color: aqua;
     margin-top: 40px;
-    margin-left: 40px;
     height: 300px;
     width: 300px;
 }
