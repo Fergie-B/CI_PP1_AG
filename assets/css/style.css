@@ -255,10 +255,24 @@ h3 {
 
 footer {
     height: 180px;
-    width: 100%;
     background-color: var(--bright-green);
 }
 
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+    list-style-type: circle;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 20px;
+    padding: 5%;
+    color: #444444;
+}
 
 
 
