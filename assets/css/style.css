@@ -33,7 +33,11 @@ h1, h2 {
 .logo {
     float: left;
     margin-left: 60px;
+    width: 300px;
+    height: 60px;
 }
+
+
 
 /* navigation link styling */
 
@@ -58,3 +62,12 @@ h1, h2 {
     color: var(--bright-green);
 }
 
+@media (max-width: 576px) {
+    /* Shrink Logo image at mobile size to allow nav bar to fit */
+    .logo { 
+            width: 200px;
+            height: 40px;
+            float: left;
+            margin-left: 10px;
+    }
+}
