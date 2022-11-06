@@ -318,17 +318,16 @@ footer h2 {
 
 
 #footer-links {
-    float: right;
     display: flex;
 }
 
 #footer-links ul {
-    float: right;
+    margin-left: auto;
     align-self: flex-end;
 }
 
 #footer-links li {
-    display: inline-block;
+    display: inline;
 }
 
 
