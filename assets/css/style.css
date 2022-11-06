@@ -220,7 +220,7 @@ h3 {
 
 /* Training Plan Section Styling */
 
-#training-plans {
+.training-plans {
     background-color: var(--onyx);
     position: relative;
 }
@@ -323,27 +323,27 @@ footer h2 {
 }
 
 
-#footer-links {
+.footer-links {
     display: flex;
 }
 /* Applied Flex Styles to position footer links */
-#footer-links ul {
+.footer-links ul {
     margin-left: auto;
     align-self: flex-end;
 }
 
-#footer-links li {
+.footer-links li {
     display: inline;
     color: var(--off-white);
     margin-right: 10px;
 }
 
-#footer-links li a {
+.footer-links li a {
     color: var(--off-white);
     text-decoration: none;
 }
 
-#footer-links li a:hover {
+.footer-links li a:hover {
     color: var(--dark-green);
 }
 
