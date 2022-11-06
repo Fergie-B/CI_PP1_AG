@@ -354,7 +354,6 @@ footer h2 {
     border: 8px solid var(--bright-green);
     margin-top: 40px;
     margin-bottom: 40px;
-    max-width: 700px;
     overflow: hidden;
     -webkit-box-shadow: 0px -1px 1px 0px #1A3409; 
     box-shadow: 0px -1px 1px 0px #1A3409;
@@ -366,6 +365,25 @@ footer h2 {
 .about-team {
     background-color: var(--onyx);
     position: relative;
+}
+
+/* About Video Section Style Rules */
+
+.about-video {
+    background-color: var(--light-grey);
+}
+
+.video-container {
+    max-width: 1120px;
+    max-height: 630px;
+    margin: 0 auto;
+}
+
+.apex-video {
+    padding: 40px 0 40px 0;
+    max-width: 100%;
+    max-height: 100%;
+}
 
 @media (max-width: 576px) {
     /* Shrink Logo image at mobile size to allow nav bar to fit */
@@ -376,8 +394,6 @@ footer h2 {
             margin-left: 10px;
     }
 }
-
-
 
 @media (max-width: 330px) {
     /* remove right margin to avoid moving of hamburger menu to second row of navbar */
