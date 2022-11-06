@@ -359,6 +359,11 @@ footer h2 {
     box-shadow: 0px -1px 1px 0px #1A3409;
 }
 
+/* About Apex Training Team Styling rules */
+
+.about-team {
+    background-color: var(--onyx);
+    position: relative;
 
 @media (max-width: 576px) {
     /* Shrink Logo image at mobile size to allow nav bar to fit */
