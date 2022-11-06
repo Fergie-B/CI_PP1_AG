@@ -249,11 +249,12 @@ h3 {
 }
 
 .columns {
-    background-color: var(--onyx);
     border: 8px solid var(--bright-green);
     margin-top: 40px;
     margin-bottom: 40px;
     width: 300px;
+    -webkit-box-shadow: 0px -1px 8px 0px #1A3409; 
+    box-shadow: 0px -1px 8px 0px #1A3409;
 }
 
 .columns h2 {
