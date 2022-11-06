@@ -19,6 +19,7 @@ body {
     font-family: Hind, sans-serif;
     font-weight: 400;
     color: var(--onyx);
+    background-color: var(--bright-green);
 }
 
 /* headings and logo styling */
@@ -251,6 +252,7 @@ h3 {
     background-color: var(--onyx);
     border: 8px solid var(--bright-green);
     margin-top: 40px;
+    margin-bottom: 40px;
     width: 300px;
 }
 
@@ -293,8 +295,13 @@ h3 {
 /* Footer Styles */
 
 footer {
-    height: 180px;
     background-color: var(--bright-green);
+}
+
+footer h2 {
+    font-size: 200%;
+    text-align: left;
+    padding-top: 40px;
 }
 
 .social-networks {
@@ -303,9 +310,8 @@ footer {
 }
 
 .social-networks i {
-    font-size: 160%;
-    margin: 20px;
-    padding: 5%;
+    font-size: 300%;
+    padding: 20px 20px 20px 0;
     color: #444444;
 }
 
