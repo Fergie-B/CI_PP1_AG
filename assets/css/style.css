@@ -295,6 +295,7 @@ h3 {
 /* Footer Styles */
 
 footer {
+    width: 100%;
     background-color: var(--bright-green);
 }
 
@@ -313,6 +314,21 @@ footer h2 {
     font-size: 300%;
     padding: 20px 20px 20px 0;
     color: #444444;
+}
+
+
+#footer-links {
+    float: right;
+    display: flex;
+}
+
+#footer-links ul {
+    float: right;
+    align-self: flex-end;
+}
+
+#footer-links li {
+    display: inline-block;
 }
 
 
