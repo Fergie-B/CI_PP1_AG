@@ -9,12 +9,6 @@
     --bright-green: #1E855C;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-    border: none;
-}
-
 body {
     font-family: Hind, sans-serif;
     font-weight: 400;
@@ -62,8 +56,7 @@ h3 {
 
 .apex-collapse {
     flex-grow: 0;
-    margin-right: 60px;
-    
+    margin-right: 60px; 
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -143,12 +136,12 @@ h3 {
 
     position: absolute;
 
-    /* zoom effect animation for the here image on loading */
+    /* fade in effect for cover text */
     animation: fade-intro 5s forwards;
 
 }
 
-/* Level of zoom applied to hero image */
+/* Fade in effect for cover text */
 @keyframes fade-intro {
     0% {
         opacity: 0;
@@ -182,7 +175,6 @@ h3 {
     min-height: 560px;
     position: relative;
 }
-
 
 #intro-area {
     margin:0 auto;
@@ -343,7 +335,6 @@ footer h2 {
     color: var(--dark-green);
 }
 
-
 /* About Section Styling rules */
 
 .about-section {
@@ -358,7 +349,6 @@ footer h2 {
     -webkit-box-shadow: 0px -1px 1px 0px #1A3409; 
     box-shadow: 0px -1px 1px 0px #1A3409;
 }
-
 
 /* About Apex Training Team Styling rules */
 
@@ -406,6 +396,8 @@ footer h2 {
     margin-bottom: 80px;
 }
 
+/* Media Queries */
+
 @media (max-width: 576px) {
     /* Shrink Logo image at mobile size to allow nav bar to fit */
     .logo { 
@@ -417,12 +409,7 @@ footer h2 {
 }
 
 @media (max-width: 330px) {
-    /* remove right margin to avoid moving of hamburger menu to second row of navbar */
-    .navbar-brand {
-        margin-right: 0;
-    }
-
-    #cover-text {
+   #cover-text {
         width: 200px;
         height: 200px;
     
