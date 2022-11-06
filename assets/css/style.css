@@ -367,6 +367,16 @@ footer h2 {
     position: relative;
 }
 
+.team-area img {
+    max-width: 300px;
+    border: 8px solid var(--bright-green);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    overflow: hidden;
+    -webkit-box-shadow: 0px -1px 1px 0px #1A3409; 
+    box-shadow: 0px -1px 1px 0px #1A3409;
+}
+
 /* About Video Section Style Rules */
 
 .about-video {
