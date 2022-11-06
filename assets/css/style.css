@@ -61,12 +61,15 @@ h3 {
 
 .apex-collapse {
     flex-grow: 0;
+    margin-right: 60px;
     
 }
 
 .navbar-light .navbar-nav .nav-link {
     font-family: 'Hind', sans-serif;
+    font-size: 16px;
     color: var(--dark-green);
+    padding-right: 30px;
 }
 
 .navbar-light .navbar-nav .nav-link.active {
@@ -175,6 +178,7 @@ h3 {
     background: linear-gradient(to top, #444444e6, #444444e1), url('../images/Intro-image.jpg') no-repeat center center;
     background-size: cover;
     width: 100%;
+    min-height: 560px;
     position: relative;
 }
 
