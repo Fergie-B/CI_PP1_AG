@@ -385,6 +385,17 @@ footer h2 {
     max-height: 100%;
 }
 
+/* About Schedule Table Section Style Rules */
+
+.schedule-section h1 {
+    text-align: center;
+    padding: 40px 0 20px 0;
+}
+
+.table {
+    margin-bottom: 80px;
+}
+
 @media (max-width: 576px) {
     /* Shrink Logo image at mobile size to allow nav bar to fit */
     .logo { 
