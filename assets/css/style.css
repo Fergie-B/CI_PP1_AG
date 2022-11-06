@@ -229,6 +229,8 @@ h3 {
 
 .training-text h2 {
     text-align: center;
+    padding: 10px 0 10px 0;
+    margin: 0 auto;
 }
 
 .plans-row {
@@ -245,10 +247,27 @@ h3 {
     width: 300px;
 }
 
+.columns p {
+    color: var(--light-grey);
+    font-family: Teko, sans-serif;
+    font-size: 140%;
+    display: block;
+    position: absolute;
+    margin: 0 auto;
+}
+
 .plans-list {
     color: var(--light-grey);
     list-style-type: circle;
 }
+
+.plans-list li {
+    font-family: Teko, sans-serif;
+    font-size: 140%;
+}
+
+
+
 
 
 /* Footer Styles */
