@@ -303,6 +303,7 @@ footer h2 {
     font-size: 200%;
     text-align: left;
     padding-top: 40px;
+    text-shadow: 2px 2px 2px #1A3409;
 }
 
 .social-networks {
@@ -313,7 +314,11 @@ footer h2 {
 .social-networks i {
     font-size: 300%;
     padding: 20px 20px 20px 0;
-    color: #444444;
+    color: var(--dark-green);
+}
+
+.social-networks i:hover {
+    color: var(--off-white);
 }
 
 
