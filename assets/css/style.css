@@ -348,6 +348,13 @@ footer h2 {
 }
 
 
+/* About Section Styling rules */
+
+.about-section {
+    background-color: var(--off-white)
+}
+
+
 @media (max-width: 576px) {
     /* Shrink Logo image at mobile size to allow nav bar to fit */
     .logo { 
