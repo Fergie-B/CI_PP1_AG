@@ -326,9 +326,34 @@ footer h2 {
     }
 }
 
+
+
 @media (max-width: 330px) {
     /* remove right margin to avoid moving of hamburger menu to second row of navbar */
     .navbar-brand {
         margin-right: 0;
+    }
+
+    #cover-text {
+        width: 200px;
+        height: 200px;
+    
+        padding-top: 20px;
+        padding-left: 10px;
+    
+        background-color: rgba(30, 133, 92, .6);
+    
+        bottom: 80px;
+        right: 60px;
+    
+        position: absolute;
+    }
+
+    #cover-text h1 {
+        font-size: 1.5rem;
+    }
+
+    #cover-text h2 {
+        font-size: 1.2rem;
     }
 }
