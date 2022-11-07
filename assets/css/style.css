@@ -202,13 +202,11 @@ h3 {
     margin-bottom: 20px;
 }
 
-#intro-button {
+.form-button {
     font-size: 20px;
     font-family: Hind, sans-serif;
     color: var(--off-white);
-    width: 180px;
-    height: 80px;
-    padding: 10px;
+    padding: 10px 20px 10px 20px;
     background-color: var(--bright-green);
     border-color: var(--dark-green);
     display: block;
@@ -400,6 +398,25 @@ footer h2 {
 
 .table {
     margin-bottom: 80px;
+}
+
+/* Signup Form Styling Rules */
+
+.signup-section {
+    background-color: var(--off-white);
+}
+
+.signup-section h1 {
+    text-align: center;
+}
+
+.signup-area {
+    margin: 40px 0 40px 0;
+}
+
+.signup-form {
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 /* Media Queries */
