@@ -420,6 +420,10 @@ footer h2 {
     margin: 0 auto;
 }
 
+.signup-check {
+    display: inline-block;
+}
+
 /* Media Queries */
 
 @media (max-width: 576px) {
