@@ -421,8 +421,12 @@ footer h2 {
 }
 
 .signup-check {
+    max-width: 200px;
+    margin-left: 60px;
     display: inline-block;
 }
+
+
 
 /* Media Queries */
 
