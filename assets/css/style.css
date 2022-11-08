@@ -172,6 +172,14 @@ h3 {
     margin-top: 10px;
 }
 
+#hero-button:hover {
+    color: var(--onyx);
+    width: 164px;
+    height: 44px;
+    background-color: var(--bright-green);
+    border-color: var(--dark-green);
+}
+
 /* Introduction section styles */
 
 #intro-section {
@@ -213,6 +221,14 @@ h3 {
     display: block;
     margin: 0 auto;
     margin-top: 10px;
+}
+
+.form-button:hover {
+    color: var(--bright-green);
+    padding: 12px 22px 12px 22px;
+    background-color: var(--off-white);
+    border-color: var(--onyx);
+    display: block;
 }
 
 /* Training Plan Section Styling */
