@@ -426,9 +426,14 @@ footer h2 {
     display: inline-block;
 }
 
+/* Contact page Form Styling Rules */
 
 .contact-section {
     background-color: var(--off-white);
+}
+
+.contact-area {
+    margin: 60px 0 60px 0;
 }
 
 
