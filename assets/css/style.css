@@ -427,6 +427,11 @@ footer h2 {
 }
 
 
+.contact-section {
+    background-color: var(--off-white);
+}
+
+
 
 /* Media Queries */
 
