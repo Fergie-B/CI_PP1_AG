@@ -195,14 +195,29 @@ h3 {
     position: relative;
 }
 
+#intro-section img {
+    border: 8px solid var(--bright-green);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    overflow: hidden;
+    -webkit-box-shadow: 0px -1px 1px 0px #1A3409; 
+    box-shadow: 0px -1px 1px 0px #1A3409;
+}
+
 #intro-area {
     margin:0 auto;
     padding: 40px 0 40px 0;
     width: 60%
 }
 
+#intro-text-area {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-left: 60px;
+}
+
 #intro-area h2 {
-    font-size: x-large;
+    font-size: 200%;
     text-align: center;
     color: var(--bright-green);
     text-shadow: 2px 2px 2px #1A3409;
@@ -305,6 +320,18 @@ h3 {
     font-family: Teko, sans-serif;
     font-size: 140%;
     text-shadow: 2px 2px 2px #1A3409;
+}
+
+.bronze {
+    background: url('../images/bronze.svg') no-repeat center center;
+}
+
+.silver{
+    background: url('../images/silver.svg') no-repeat center center;
+}
+
+.gold {
+    background: url('../images/gold.svg') no-repeat center center;
 }
 
 /* Footer Styles */
