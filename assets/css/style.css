@@ -180,6 +180,11 @@ h3 {
     border-color: var(--dark-green);
 }
 
+#hero-button a {
+    color: var(--onyx);
+    text-decoration: none;
+}
+
 /* Introduction section styles */
 
 #intro-section {
