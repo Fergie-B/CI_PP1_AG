@@ -9,6 +9,7 @@
     --bright-green: #1E855C;
 }
 
+/* CSS Reset */
 * {
     margin: 0;
     padding: 0;
@@ -16,10 +17,16 @@
 }
 
 body {
+    margin: 0;
     font-family: Hind, sans-serif;
     font-weight: 400;
     color: var(--onyx);
     background-color: var(--bright-green);
+}
+
+.wrapper{
+    margin: auto;
+    width: 100%;
 }
 
 /* headings and logo styling */
