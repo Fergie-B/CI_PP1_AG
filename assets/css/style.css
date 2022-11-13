@@ -329,7 +329,7 @@ h3 {
 
 .plans-list {
     color: var(--light-grey);
-    list-style-type: circle;
+    list-style-type: none;
 }
 
 .plans-list li {
