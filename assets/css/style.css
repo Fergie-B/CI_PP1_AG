@@ -444,6 +444,11 @@ footer h2 {
     position: relative;
 }
 
+.team-area {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
 .team-area img {
     max-width: 300px;
     margin: 0 auto;
