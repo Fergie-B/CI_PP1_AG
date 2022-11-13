@@ -467,12 +467,13 @@ footer h2 {
 
 .overlay {  
     background:rgba(0, 0, 0, .75);
-    text-align:center;
+    text-align: center;
     position: absolute;
     opacity: 0;
     top: 0;
     width:100%;
-    height:100%; 
+    height:100%;
+    padding: 20px 0px 20px 0px;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
@@ -482,6 +483,18 @@ footer h2 {
 
 .team-img:hover .overlay {
     opacity: 1;
+}
+
+.team-member-name {
+    font-family: Teko, sans-serif;
+    color: var(--bright-green)
+}
+
+.team-member-speciality ul {
+    color: var(--off-white);
+    list-style-type: none;
+    padding-left: 1rem;
+    text-align: center;
 }
 
 /* About Video Section Style Rules */
