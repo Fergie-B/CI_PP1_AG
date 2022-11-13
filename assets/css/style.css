@@ -10,6 +10,7 @@
 }
 
 /* CSS Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -247,6 +248,15 @@ h3 {
     display: block;
     margin: 0 auto;
     margin-top: 10px;
+}
+
+.form-button a {
+    color: var(--off-white);
+    text-decoration: none;
+}
+
+.form-button a:hover {
+    color: var(--bright-green);
 }
 
 .form-button:hover {
