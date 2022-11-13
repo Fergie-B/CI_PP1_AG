@@ -583,9 +583,13 @@ footer h2 {
 /* Privacy Page Styling rules */
 
 #privacy-section {
-    background-color: var(--light-grey);
+    background-color: var(--off-white);
+    padding: 5% 5% 5% 5%;
 }
 
+#privacy-section h1 {
+    text-align: center;
+}
 
 /* Media Queries */
 
