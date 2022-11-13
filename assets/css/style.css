@@ -603,7 +603,7 @@ footer h2 {
         background-color: rgba(30, 133, 92, .6);
     
         bottom: 80px;
-       left: 80px;
+        left: 80px;
     
         position: absolute;
     }
@@ -633,3 +633,5 @@ footer h2 {
        justify-content: center;
     }
  }
+
+
