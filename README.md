@@ -1,3 +1,8 @@
+# Apex Gym
+(Developer: Barry Ferguson)
+
+[Live Webpage] (https://fergie-b.github.io/CI_PP1_AG/)
+
 ## Table of Contents
 
 1. [Project Goals](#project-goals)
@@ -5,7 +10,7 @@
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
@@ -30,6 +35,19 @@
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
 
+## Project Goals
+
+### User Goals
+- The ability to register as a member quickly and easily
+- To see the Trainers are qualified and that the user is in safe hands
+- Seeking information about the classes
+- Find out the directions to the gym
+
+### Site Owner Goals
+- Promoting the message that the gym is friendly and community orientated
+- Promotion and growth of their brand
+- To fill the classes to ensure good cashflow to run the business well
+- To highlight the most important information to prospective members
 
 ### Wireframes
 
