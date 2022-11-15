@@ -569,6 +569,10 @@ footer h2 {
     display: inline-block;
 }
 
+.form-text {
+    color: var(--onyx);
+}
+
 /* Contact page Form Styling Rules */
 
 .contact-section {
