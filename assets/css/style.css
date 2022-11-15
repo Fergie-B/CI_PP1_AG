@@ -591,6 +591,16 @@ footer h2 {
     text-align: center;
 }
 
+/* 404 Page styling rules */
+
+.error-section {
+    background-color: var(--off-white);
+}
+
+.error-section img {
+    padding: 5% 0 10% 0;
+}
+
 /* Media Queries */
 
 @media (max-width: 576px) {
