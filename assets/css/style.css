@@ -400,17 +400,18 @@ footer h2 {
 
 .footer-links li {
     display: inline;
-    color: var(--onyx);
+    color: var(--off-white);
+    text-decoration: underline;
     margin-right: 10px;
 }
 
 .footer-links li a {
-    color: var(--onyx);
-    text-decoration: none;
+    color: var(--off-white);
+    text-decoration: underline;
 }
 
 .footer-links li a:hover {
-    color: var(--off-white);
+    color: var(--dark-green);
 }
 
 /* About Section Styling rules */
