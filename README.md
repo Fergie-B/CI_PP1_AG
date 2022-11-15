@@ -269,5 +269,24 @@ There are Ten warnings due to external stylesheets from the Bootstrap Integratio
 <img src="docs/validation/validation-css-fullpage.png">
 </details>
 
-
+### Accessibility
+The site pages where checked using the [Web AIM Wave Web Accessibility Evaluation Tool](https://wave.webaim.org/) and some errors with contrast on the links and forms where checked and the code was edited to fix them.
+<details><summary>Homepage</summary>
+<img src="docs/validation/validation-accessibility-index.png">
+</details>
+<details><summary>About page</summary>
+<img src="docs/validation/validation-accessibility-about.png">
+</details>
+<details><summary>Classes page</summary>
+<img src="docs/validation/validation-accessibility-classes.png">
+</details>
+<details><summary>Sign Up page</summary>
+<img src="docs/validation/validation-accessibility-register.png">
+</details>
+<details><summary>Contact Us page</summary>
+<img src="docs/validation/validation-accessibility-contact.png">
+</details>
+<details><summary>Privacy Policy page</summary>
+<img src="docs/validation/validation-accessibility-privacy-policy.png">
+</details>
 
