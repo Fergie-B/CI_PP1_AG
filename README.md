@@ -86,7 +86,7 @@
 ### Design Choices
 The websites pages where designed to contrast between the different sections allowing the end user to find what they are looking for easily and intuitively. It uses a bold Green colour scheme to reflect the idea of the outdoors ideology of the brand name Apex Gym.
 
-### Colour
+### Colours
 The color scheme was chosen on [Coolors.co](https://coolors.co/1a3409-444444-e0dfe2-1e855c-f6f3f3) to reflect the Gyms bright green branding theme. The #444444 Body Text was tested for legibility on the [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) to make sure the contrast of the colours chosen for the text worked against the Bright Green Theme.
 
 <details><summary>Apex Gym Colour Scheme</summary>
@@ -115,6 +115,13 @@ The Two-colour website logo was designed in Adobe Illustrator using the Teko Fon
 </details>
 
 ### Structure
+The Website structure is laid out so every section is easy to navigate to. On Desktop mode the user should be able to view more information about the Gym above the fold on every page.
+#### Site Pages:
+- A Homepage with sections Welcoming the User and outling the available training plans
+- An About Page with sections reiterating what the gym offers, a section introducing the Trainers and their quailficationss by use of an image overlay and a video giving a tour of the facility
+- A Classes page which provides a schedule of the available training times
+- A Sign up page where the user can register for a membership through an online form
+- A Contact Page which provides a Contact Form, the address of the Gym and a Google Location map
 
 
 ### Wireframes
@@ -134,3 +141,55 @@ The Two-colour website logo was designed in Adobe Illustrator using the Teko Fon
 <details><summary>Contact</summary>
 <img src="docs/wireframes/wireframes-contact.png">
 </details>
+
+## Technologies Used
+
+### Languages
+- HTML5
+- CSS3
+
+###Frameworks & Tools
+- [Bootstrap v5.0](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- [Git](https://git-scm.com/)
+- [Github](https://github.com/)
+- [Gitpod](https://gitpod.io/workspaces)
+- Adobe Photoshop
+- Adobe Illustrator
+- [Balsamiq](https://balsamiq.com/)
+- [Coolors.co](https://coolors.co/)
+- [Google Fonts](https://fonts.google.com/)
+- [Favicon.io](https://favicon.io/)
+- [Font Awesome](https://fontawesome.com/)
+- [CSS Text-Shadow Generator](https://html-css-js.com/css/generator/text-shadow/)
+- [CSS Box-Shadow Generator](https://html-css-js.com/css/generator/box-shadow/)
+
+## Features
+The Main features of the Apex Gym website span across five pages and include 11 sections
+
+### Header Section
+
+### Hero-Image
+
+### Welcome Section
+
+### Training Plan Section
+
+### About Section
+
+### Training Team Section
+
+### Video Section
+
+### Schedule Section
+
+### Sign Up Section
+
+### Contact Section
+
+### Footer
+
+
+
+
+
+
