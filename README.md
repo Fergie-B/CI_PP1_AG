@@ -1,4 +1,4 @@
-## Table of Content
+## Table of Contents
 
 1. [Project Goals](#project-goals)
     1. [User Goals](#user-goals)
@@ -29,3 +29,22 @@
 9. [Deployment](#deployment)
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
+
+
+### Wireframes
+
+<details><summary>Home</summary>
+<img src="docs/wireframes/wireframes-home.png">
+</details>
+<details><summary>About</summary>
+<img src="docs/wireframes/wireframes-about.png">
+</details>
+<details><summary>Menu</summary>
+<img src="docs/wireframes/wireframes-classes.png">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/wireframes/wireframes-signup.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wireframes/wireframes-contact.png">
+</details>
