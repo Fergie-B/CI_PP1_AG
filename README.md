@@ -254,14 +254,14 @@ The [W3C Markup Validation Service](https://validator.w3.org/) was used to check
 <details><summary>Contact Us page</summary>
 <img src="docs/validation/validation-html-contact.png">
 </details>
-details><summary>Privacy Policy page</summary>
+<details><summary>Privacy Policy page</summary>
 <img src="docs/validation/validation-html-privacy-policy.png">
 </details>
 
 ### CSS Validation
 The [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/validator) was used to validate the sites css.
 No errors are found in the site CSS and the site validates as [CSS Level 3 + SVG](https://www.w3.org/Style/CSS/current-work.html)
-There are Ten warnings due to external stylesheets from the Bootstrap Inteegration and from some Vendor Extensions such as -webkit-box-shadow
+There are Ten warnings due to external stylesheets from the Bootstrap Integration and from some Vendor Extensions such as -webkit-box-shadow
 <details><summary>Style CSS Success Result</summary>
 <img src="docs/validation/validation-css-result.png">
 </details>
