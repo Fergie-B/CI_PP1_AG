@@ -15,8 +15,9 @@
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
     3. [Fonts](#fonts)
-    4. [Structure](#structure)
-    5. [Wireframes](#wireframes)
+    4. [Logo](#logo)
+    5. [Structure](#structure)
+    6. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks & Tools](#frameworks-&-tools)
@@ -86,7 +87,7 @@
 The websites pages where designed to contrast between the different sections allowing the end user to find what they are looking for easily and intuitively. It uses a bold Green colour scheme to reflect the idea of the outdoors ideology of the brand name Apex Gym.
 
 ### Colour
-The color scheme was chosen on [Coolors.co](https://coolors.co/1a3409-444444-e0dfe2-1e855c-f6f3f3) to reflect the Gyms bright green branding theme. These were tested for legibility on the [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) to make sure the contrast of the colours chosen for the text worked against the Bright Green Theme.
+The color scheme was chosen on [Coolors.co](https://coolors.co/1a3409-444444-e0dfe2-1e855c-f6f3f3) to reflect the Gyms bright green branding theme. The #444444 Body Text was tested for legibility on the [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) to make sure the contrast of the colours chosen for the text worked against the Bright Green Theme.
 
 <details><summary>Apex Gym Colour Scheme</summary>
 <img src="docs/features/color-palette.png">
@@ -102,9 +103,19 @@ The color scheme was chosen on [Coolors.co](https://coolors.co/1a3409-444444-e0d
 
 For the Body text [Hind](https://fonts.google.com/specimen/Hind?query=hind) which is also from the [Indian Type Foundry](https://fonts.google.com/?query=Indian%20Type%20Foundry) was utilised. Hind is a solid choice for UI design, and a wise selection for electronic display embedding.
 
-<details><summary>Teko</summary>
+<details><summary>Hind</summary>
 <img src="docs/features/font-hind.png">
 </details>
+
+### Logo
+The Two-colour website logo was designed in Adobe Illustrator using the Teko Font and was outputed as an SVG to keep the image lightweight to speed up loading times.
+
+<details><summary>Logo</summary>
+<img src="docs/features/logo.png">
+</details>
+
+### Structure
+
 
 ### Wireframes
 
