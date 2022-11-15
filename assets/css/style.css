@@ -400,12 +400,12 @@ footer h2 {
 
 .footer-links li {
     display: inline;
-    color: var(--dark-green);
+    color: var(--onyx);
     margin-right: 10px;
 }
 
 .footer-links li a {
-    color: var(--dark-green);
+    color: var(--onyx);
     text-decoration: none;
 }
 
