@@ -611,6 +611,7 @@ footer h2 {
         display: block;
         margin: 0 auto;
         margin-top: 10px;
+        margin-bottom: 60px;
 }
 
 .error-button a {
@@ -625,7 +626,7 @@ footer h2 {
 .error-button:hover {
     color: var(--bright-green);
     padding: 12px 22px 12px 22px;
-    background-color: var(--off-white);
+    background-color: var(--dark-green);
     border-color: var(--onyx);
     display: block;
 }
