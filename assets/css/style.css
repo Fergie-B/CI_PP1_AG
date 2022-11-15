@@ -394,6 +394,7 @@ footer h2 {
 
 /* Applied Flex Styles to position footer links */
 .footer-links ul {
+    background-color: var(--onyx);
     margin-left: auto;
     align-self: flex-end;
 }
@@ -401,13 +402,12 @@ footer h2 {
 .footer-links li {
     display: inline;
     color: var(--off-white);
-    text-decoration: underline;
     margin-right: 10px;
 }
 
 .footer-links li a {
     color: var(--off-white);
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .footer-links li a:hover {
