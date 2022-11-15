@@ -113,6 +113,10 @@ h3 {
     color: var(--off-white)
 }
 
+#cover-text a {
+    text-shadow: none;
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
@@ -251,6 +255,7 @@ h3 {
     display: block;
     margin: 0 auto;
     margin-top: 10px;
+    max-width: 200px;
 }
 
 .form-button a {
@@ -643,6 +648,12 @@ footer h2 {
             height: 40px;
             float: left;
             margin-left: 10px;
+    }
+}
+
+@media (max-width: 1364px) {
+    #intro-text-area {
+        padding-left: 0;
     }
 }
 
