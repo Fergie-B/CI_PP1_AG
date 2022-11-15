@@ -148,7 +148,7 @@ The Website structure is laid out so every section is easy to navigate to. On De
 - HTML5
 - CSS3
 
-###Frameworks & Tools
+### Frameworks & Tools
 - [Bootstrap v5.0](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - [Git](https://git-scm.com/)
 - [Github](https://github.com/)
@@ -167,27 +167,51 @@ The Website structure is laid out so every section is easy to navigate to. On De
 The Main features of the Apex Gym website span across five pages and include 11 sections
 
 ### Header Section
+- Appears on all pages sitewide
+- Encloses the Sites Responsive Logo and Bootstrap Navigation Bar
+- The Bootstrap Navigation Bar is fully responsive, changes to Navbar-Toggle on small screens
+- The Links included are Home, About Us, Classes, Sign Up and Contact Us
+- The navbar has an active class in the HTML to highlight what page the user is browsing
 
 ### Hero-Image
+- Contains an animated image that introduces the user to the gyms policy of social training
+- Has a fade in animated message box with a button link to the sign up forms
 
 ### Welcome Section
+- Outlines the Gyms core message with a small paragraph of text
+- Contains an image and background image showing the Gym in action
+- Has a Link Button to meet the Training Team
 
 ### Training Plan Section
+- Contains three columns with list information detailing the Gyms Training plans
+- Each Column has an SVG image in the background similar to the site logo
 
 ### About Section
+- Details a short description of the Gym and the equipment offered for use by trainees
+- Shows an image of the gym
 
 ### Training Team Section
+- Three column layout showing an image of the Gyms Trainers
+- Each image has an overlay which is activated when the user mouses over
+- The overlay details the trainers individual qualifications and experience
 
 ### Video Section
+- Provides the user with a video tour of the gym facilities
 
 ### Schedule Section
+- A Responsive Bootstrap form which details the Gym Training times and what is on
+- The form scrolls horizontally at small screen sizes to allow the viewer full view of information
 
 ### Sign Up Section
+- A Bootstrap Sign up form is included that offer the user to tick which membership offer the prefer
 
 ### Contact Section
+- A Bootstrap Contact form which alows the user to contact the Gym
+- A Google map is provided allowing the user to located the Gym by address
 
 ### Footer
-
+- Includes a column containing links to the Gyms three Social Media accounts
+- Footer links contatining Site Copyright and the Privacy Policy links
 
 
 
