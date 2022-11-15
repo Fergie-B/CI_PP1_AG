@@ -533,7 +533,11 @@ footer h2 {
   height: 100%;
 }
 
-/* About Schedule Table Section Style Rules */
+/* Schedule Table Section Style Rules */
+
+.schedule-section {
+    background-color: var(--off-white);
+}
 
 .schedule-section h1 {
     text-align: center;
@@ -541,6 +545,7 @@ footer h2 {
 }
 
 .table {
+    border: 1px solid #444444;
     margin-bottom: 80px;
 }
 
