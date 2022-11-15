@@ -235,7 +235,39 @@ The Main features of the Apex Gym website span across five pages and include 11 
 
 ![Footer](docs/features/features-footer.png)
 
+## Validation
 
+### HTML Validation
+The [W3C Markup Validation Service](https://validator.w3.org/) was used to check the HTML and all code is clear of errors.
+<details><summary>Homepage</summary>
+<img src="docs/validation/validation-html-index.png">
+</details>
+<details><summary>About page</summary>
+<img src="docs/validation/validation-html-about.png">
+</details>
+<details><summary>Classes page</summary>
+<img src="docs/validation/validation-html-classes.png">
+</details>
+<details><summary>Sign Up page</summary>
+<img src="docs/validation/validation-html-register.png">
+</details>
+<details><summary>Contact Us page</summary>
+<img src="docs/validation/validation-html-contact.png">
+</details>
+details><summary>Privacy Policy page</summary>
+<img src="docs/validation/validation-html-privacy-policy.png">
+</details>
+
+### CSS Validation
+The [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/validator) was used to validate the sites css.
+No errors are found in the site CSS and the site validates as [CSS Level 3 + SVG](https://www.w3.org/Style/CSS/current-work.html)
+There are Ten warnings due to external stylesheets from the Bootstrap Inteegration and from some Vendor Extensions such as -webkit-box-shadow
+<details><summary>Style CSS Success Result</summary>
+<img src="docs/validation/validation-css-result.png">
+</details>
+<details><summary>Full Page Breakdown</summary>
+<img src="docs/validation/validation-css-fullpage.png">
+</details>
 
 
 
