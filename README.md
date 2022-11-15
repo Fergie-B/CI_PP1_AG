@@ -290,3 +290,24 @@ The site pages where checked using the [Web AIM Wave Web Accessibility Evaluatio
 <img src="docs/validation/validation-accessibility-privacy-policy.png">
 </details>
 
+### Performance Testing
+The website was tested in Google Lighthouse to see how it performs.
+<details><summary>Homepage</summary>
+<img src="docs/validation/lighthouse-performance-index.png">
+</details>
+<details><summary>About page</summary>
+<img src="docs/validation/lighthouse-performance-about.png">
+</details>
+<details><summary>Classes page</summary>
+<img src="docs/validation/lighthouse-performance-classes.png">
+</details>
+<details><summary>Sign Up page</summary>
+<img src="docs/validation/lighthouse-performance-register.png">
+</details>
+<details><summary>Contact Us page</summary>
+<img src="docs/validation/lighthouse-performance-contact.png">
+</details>
+<details><summary>Privacy Policy page</summary>
+<img src="docs/validation/lighthouse-performance-privacy-policy.png">
+</details>
+
