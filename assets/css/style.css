@@ -579,6 +579,21 @@ footer h2 {
 
 /* Contact page Map Styling Rules */
 
+.map-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.map-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
 .map-area {
     margin: 60px 0 60px 0;
     padding-left: 20px;
