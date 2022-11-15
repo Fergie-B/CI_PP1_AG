@@ -73,7 +73,7 @@
 1.	As a returning user of the website, I want to be able to register as a member quickly and easily.
 2.	As a returning user of the website, I want to be able to view the class schedule so that I can plan which classes I expect to attend.
 3.	As a returning user of the website, I want to be able to view the class schedule to see if it aligns with my work hours.
-4.	As a returning user of the website, I want to be able to contact the staff through various channels i.e. contact form, telephone, social
+4.	As a returning user of the website, I want to be able to contact the staff through various channels i.e. contact form or social
 
 ### Site Owner
 #### User: Liam Kavanagh, Trainer and Manager at Apex Gym, Age 31
