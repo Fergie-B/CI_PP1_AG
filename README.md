@@ -219,7 +219,7 @@ The Main features of the Apex Gym website span across five pages and include 11 
 ![Schedule](docs/features/features-schedule-section.png)
 
 ### Sign Up Section
-- A Bootstrap Sign up form is included that offer the user to tick which membership offer the prefer
+- A Bootstrap Sign up form is included that offer the user the choice to tick which membership offer they prefer
 
 ![Sign-Up](docs/features/features-sign-up-section.png)
 
@@ -231,7 +231,7 @@ The Main features of the Apex Gym website span across five pages and include 11 
 
 ### Footer
 - Includes a column containing links to the Gyms three Social Media accounts
-- Footer links contatining Site Copyright and the Privacy Policy links
+- Footer links containing Site Copyright and the Privacy Policy links
 
 ![Footer](docs/features/features-footer.png)
 
