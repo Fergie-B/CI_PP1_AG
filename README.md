@@ -10,8 +10,7 @@
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requirements and Expectations](#user-requirements-and-expectations)
-    3. [User Stories](#user-stories)
+    2. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
@@ -48,6 +47,39 @@
 - Promotion and growth of their brand
 - To fill the classes to ensure good cashflow to run the business well
 - To highlight the most important information to prospective members
+
+## User Experience
+
+### Target Audience
+- Performance Athletes
+- People looking to lose weight/improve fitness health
+- Social Gym goers
+- Fitness Trainers/Students
+
+### User Stories
+
+### First-Time User
+#### User: Gillian Kearney, Nurse, Age 32
+1.	As a first-time user of the website, I want to be able to view the class schedule
+2.	As a first-time user of the website, I want to be able to find information on the membership types so that I get the most out of the training
+3.	As a first-time user of the website, I want to be able to contact the gym for further information on the membership types
+4.	As a first-time user of the website, I want to find out where the gym is on a map
+5.	As a first-time user of the website, I want to know if the trainers have the proper qualifications
+6.	As a first-time user of the website, I want to be able to view the business on Social Media platforms to get a feel for the gym
+
+### Returning User
+#### User: Tony McGuiness, Builder, Age 27
+1.	As a returning user of the website, I want to be able to register as a member quickly and easily.
+2.	As a returning user of the website, I want to be able to view the class schedule so that I can plan which classes I expect to attend.
+3.	As a returning user of the website, I want to be able to view the class schedule to see if it aligns with my work hours.
+4.	As a returning user of the website, I want to be able to contact the staff through various channels i.e. contact form, telephone, social
+
+### Site Owner
+#### User: Liam Kavanagh, Trainer and Manager at Apex Gym, Age 31
+1.	As the site owner of the website, I want to be able to view the class schedule on my mobile easily to plan my working time better.
+2.	As the site owner of the website, I want the members to feel comfortable training with our team by being able to access the information they need quickly
+3.	As a site owner of the website, I want to be able to view the different types of membership succinctly and clearly to ensure I am offering my clients the right level of training.
+
 
 ### Wireframes
 
