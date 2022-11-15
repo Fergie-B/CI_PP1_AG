@@ -231,7 +231,7 @@ The Main features of the Apex Gym website span across five pages and include 11 
 
 ### Footer
 - Includes a column containing links to the Gyms three Social Media accounts
-- Footer links containing Site Copyright and the Privacy Policy links
+- Footer links containing Site Copyright and the Privacy Policy links,
 
 ![Footer](docs/features/features-footer.png)
 
