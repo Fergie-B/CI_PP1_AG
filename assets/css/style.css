@@ -70,6 +70,9 @@ h3 {
 
 .apex-collapse {
     flex-grow: 0;
+}
+
+.navbar-nav {
     margin-right: 60px; 
 }
 
@@ -634,7 +637,7 @@ footer h2 {
 /* Media Queries */
 
 @media (max-width: 576px) {
-    /* Shrink Logo image at mobile size to allow nav bar to fit */
+    /* Shrink Logo image down at mobile size to allow the nav bar to fit */
     .logo { 
             width: 200px;
             height: 40px;
@@ -644,6 +647,7 @@ footer h2 {
 }
 
 @media (max-width: 821px) {
+    /* Media Query to move cover text to middle on responsive */
    #cover-text {
         width: 300px;
         height: 200px;
@@ -668,6 +672,7 @@ footer h2 {
     }
 }
 
+/* Center footer content on responsive */
 @media (max-width: 767px) {
     footer h2 {
         text-align: center;
