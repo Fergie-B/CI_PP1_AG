@@ -80,6 +80,16 @@
 2.	As the site owner of the website, I want the members to feel comfortable training with our team by being able to access the information they need quickly
 3.	As a site owner of the website, I want to be able to view the different types of membership succinctly and clearly to ensure I am offering my clients the right level of training.
 
+## Design
+
+### Design Choices
+The websites pages where designed to contrast between the different sections allowing the end user to find what they are looking for easily and intuitively. It uses a bold Green colour scheme to reflect the idea of the outdoors ideology of the Brand name APex Gym.
+
+### Colour
+The color scheme was chosen on [Coolors.co](https://coolors.co/1a3409-444444-e0dfe2-1e855c-f6f3f3) to refelect the Gyms bright green branding theme. These were tested for legibility on the [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) to make sure the contrast of the colours chosen for the text worked against the Bright Green Theme.
+
+![Colour Scheme](docs/features/color-palette.png)
+
 
 ### Wireframes
 
