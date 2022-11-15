@@ -598,7 +598,36 @@ footer h2 {
 }
 
 .error-section img {
-    padding: 5% 0 10% 0;
+    padding: 5% 0 5% 0;
+}
+
+.error-button {
+        font-size: 20px;
+        font-family: Hind, sans-serif;
+        color: var(--off-white);
+        padding: 10px 20px 10px 20px;
+        background-color: var(--bright-green);
+        border-color: var(--dark-green);
+        display: block;
+        margin: 0 auto;
+        margin-top: 10px;
+}
+
+.error-button a {
+    color: var(--off-white);
+    text-decoration: none;
+}
+
+.error-button a:hover {
+    color: var(--bright-green);
+}
+
+.error-button:hover {
+    color: var(--bright-green);
+    padding: 12px 22px 12px 22px;
+    background-color: var(--off-white);
+    border-color: var(--onyx);
+    display: block;
 }
 
 /* Media Queries */
