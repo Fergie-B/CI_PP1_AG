@@ -83,13 +83,28 @@
 ## Design
 
 ### Design Choices
-The websites pages where designed to contrast between the different sections allowing the end user to find what they are looking for easily and intuitively. It uses a bold Green colour scheme to reflect the idea of the outdoors ideology of the Brand name APex Gym.
+The websites pages where designed to contrast between the different sections allowing the end user to find what they are looking for easily and intuitively. It uses a bold Green colour scheme to reflect the idea of the outdoors ideology of the brand name Apex Gym.
 
 ### Colour
-The color scheme was chosen on [Coolors.co](https://coolors.co/1a3409-444444-e0dfe2-1e855c-f6f3f3) to refelect the Gyms bright green branding theme. These were tested for legibility on the [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) to make sure the contrast of the colours chosen for the text worked against the Bright Green Theme.
+The color scheme was chosen on [Coolors.co](https://coolors.co/1a3409-444444-e0dfe2-1e855c-f6f3f3) to reflect the Gyms bright green branding theme. These were tested for legibility on the [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/) to make sure the contrast of the colours chosen for the text worked against the Bright Green Theme.
 
-![Colour Scheme](docs/features/color-palette.png)
+<details><summary>Apex Gym Colour Scheme</summary>
+<img src="docs/features/color-palette.png">
+</details>
 
+### Fonts
+
+[Teko](https://fonts.google.com/specimen/Teko/tester?query=tek) from the [Indian Type Foundry](https://fonts.google.com/?query=Indian%20Type%20Foundry) a display font on Google Fonts was chosen for the Site Headings.
+
+<details><summary>Teko</summary>
+<img src="docs/features/font-teko.png">
+</details>
+
+For the Body text [Hind](https://fonts.google.com/specimen/Hind?query=hind) which is also from the [Indian Type Foundry](https://fonts.google.com/?query=Indian%20Type%20Foundry) was utilised. Hind is a solid choice for UI design, and a wise selection for electronic display embedding.
+
+<details><summary>Teko</summary>
+<img src="docs/features/font-hind.png">
+</details>
 
 ### Wireframes
 
