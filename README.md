@@ -173,45 +173,67 @@ The Main features of the Apex Gym website span across five pages and include 11 
 - The Links included are Home, About Us, Classes, Sign Up and Contact Us
 - The navbar has an active class in the HTML to highlight what page the user is browsing
 
+![Header](docs/features/features-header.png)
+
 ### Hero-Image
 - Contains an animated image that introduces the user to the gyms policy of social training
 - Has a fade in animated message box with a button link to the sign up forms
+
+![Hero-Image](docs/features/features-hero-image-section.png)
 
 ### Welcome Section
 - Outlines the Gyms core message with a small paragraph of text
 - Contains an image and background image showing the Gym in action
 - Has a Link Button to meet the Training Team
 
+![Welcome](docs/features/features-welcome-section.png)
+
 ### Training Plan Section
 - Contains three columns with list information detailing the Gyms Training plans
 - Each Column has an SVG image in the background similar to the site logo
 
+![Training-Plans](docs/features/features-training-plans-section.png)
+
 ### About Section
 - Details a short description of the Gym and the equipment offered for use by trainees
 - Shows an image of the gym
+
+![About](docs/features/features-about-section.png)
 
 ### Training Team Section
 - Three column layout showing an image of the Gyms Trainers
 - Each image has an overlay which is activated when the user mouses over
 - The overlay details the trainers individual qualifications and experience
 
+![Training-Team](docs/features/features-training-team-section.png)
+
 ### Video Section
 - Provides the user with a video tour of the gym facilities
+
+![Video](docs/features/features-video-section.png)
 
 ### Schedule Section
 - A Responsive Bootstrap form which details the Gym Training times and what is on
 - The form scrolls horizontally at small screen sizes to allow the viewer full view of information
 
+![Schedule](docs/features/features-schedule-section.png)
+
 ### Sign Up Section
 - A Bootstrap Sign up form is included that offer the user to tick which membership offer the prefer
+
+![Sign-Up](docs/features/features-sign-up-section.png)
 
 ### Contact Section
 - A Bootstrap Contact form which alows the user to contact the Gym
 - A Google map is provided allowing the user to located the Gym by address
 
+![Contact](docs/features/features-contact-section.png)
+
 ### Footer
 - Includes a column containing links to the Gyms three Social Media accounts
 - Footer links contatining Site Copyright and the Privacy Policy links
+
+![Footer](docs/features/features-footer.png)
 
 
 
