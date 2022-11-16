@@ -497,11 +497,11 @@ Images used on the site are not the property of the developer unless stated*
 - The [404 Image](assets/images/404.svg) was generated in Adobe Illustrator by the Developer
 
 ### Code
-The Bootstrap Navbar code snippet "Navbar without List items" was ttaken from the Bootstrap site at:
+- The Bootstrap Navbar code snippet "Navbar without List items" was ttaken from the Bootstrap site at:
 https://getbootstrap.com/docs/5.0/components/navbar/#
-The Cover text fade in animation was based on this [Tutorial](https://www.tutorialspoint.com/css/css_animation_fade_in_left.html)
-The Sign Up and Contact Forms components were built from code found on the [Bootstrap Site](https://getbootstrap.com/docs/5.0/forms/overview/#overview)
-The 404 Page was built using instructions from [Github](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+- The Cover text fade in animation was based on this [Tutorial](https://www.tutorialspoint.com/css/css_animation_fade_in_left.html)
+- The Sign Up and Contact Forms components were built from code found on the [Bootstrap Site](https://getbootstrap.com/docs/5.0/forms/overview/#overview)
+- The 404 Page was built using instructions from [Github](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
 
 ## Acknowledgements
 I would like to thank my Mentor, Mo Shami for his advice on where to take this project.
