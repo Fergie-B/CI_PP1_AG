@@ -180,12 +180,14 @@ The Main features of the Apex Gym website span across five pages and include 11 
 - The Bootstrap Navigation Bar is fully responsive, changes to Navbar-Toggle on small screens
 - The Links included are Home, About Us, Classes, Sign Up and Contact Us
 - The navbar has an active class in the HTML to highlight what page the user is browsing
+- User Stories covered: 12
 
 ![Header](docs/features/features-header.png)
 
 ### Hero-Image
 - Contains an animated image that introduces the user to the gyms policy of social training
 - Has a fade in animated message box with a button link to the sign up forms
+- User Stories covered: 7
 
 ![Hero-Image](docs/features/features-hero-image-section.png)
 
@@ -193,12 +195,14 @@ The Main features of the Apex Gym website span across five pages and include 11 
 - Outlines the Gyms core message with a small paragraph of text
 - Contains an image and background image showing the Gym in action
 - Has a Link Button to meet the Training Team
+- User Stories covered: 5
 
 ![Welcome](docs/features/features-welcome-section.png)
 
 ### Training Plan Section
 - Contains three columns with list information detailing the Gyms Training plans
 - Each Column has an SVG image in the background similar to the site logo
+- User Stories covered: 2, 13
 
 ![Training-Plans](docs/features/features-training-plans-section.png)
 
@@ -212,6 +216,7 @@ The Main features of the Apex Gym website span across five pages and include 11 
 - Three column layout showing an image of the Gyms Trainers
 - Each image has an overlay which is activated when the user mouses over
 - The overlay details the trainers individual qualifications and experience
+- User Stories covered: 5
 
 ![Training-Team](docs/features/features-training-team-section.png)
 
@@ -223,23 +228,27 @@ The Main features of the Apex Gym website span across five pages and include 11 
 ### Schedule Section
 - A Responsive Bootstrap form which details the Gym Training times and what is on
 - The form scrolls horizontally at small screen sizes to allow the viewer full view of information
+- User Stories Covered: 1, 8, 9, 11
 
 ![Schedule](docs/features/features-schedule-section.png)
 
 ### Sign Up Section
 - A Bootstrap Sign up form is included that offer the user the choice to tick which membership offer they prefer
+- User stories covered: 7
 
 ![Sign-Up](docs/features/features-sign-up-section.png)
 
 ### Contact Section
 - A Bootstrap Contact form which alows the user to contact the Gym
 - A Google map is provided allowing the user to located the Gym by address
+- User stories covered: 3, 4, 10
 
 ![Contact](docs/features/features-contact-section.png)
 
 ### Footer
 - Includes a column containing links to the Gyms three Social Media accounts
-- Footer links containing Site Copyright and the Privacy Policy links,
+- Footer links containing Site Copyright and the Privacy Policy links
+- User Stories covered: 3, 6, 10, 12
 
 ![Footer](docs/features/features-footer.png)
 
