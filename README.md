@@ -316,3 +316,39 @@ Apex Gym Website was tested on the devices and browsers listed:
 - IPad Mini - Safari, Google Chrome
 - Samsung Galaxy A53 - Google Chrome
 - Windows Desktop - Firefox, Chrome, Edge
+
+### Testing User Stories
+
+1. As a first-time user of the website, I want to be able to view the class schedule
+
+2. As a first-time user of the website, I want to be able to find information on the membership types so that I get the most out of the training
+
+3. As a first-time user of the website, I want to be able to contact the gym for further information on the membership types
+
+4. As a first-time user of the website, I want to find out where the gym is on a map
+
+5. As a first-time user of the website, I want to know if the trainers have the proper qualifications
+
+6. As a first-time user of the website, I want to be able to view the business on Social Media platforms to get a feel for the gym
+
+7. As a returning user of the website, I want to be able to register as a member quickly and easily
+
+8. As a returning user of the website, I want to be able to view the class schedule so that I can plan which classes I expect to attend
+
+9. As a returning user of the website, I want to be able to view the class schedule to see if it aligns with my work hours
+
+10. As a returning user of the website, I want to be able to contact the staff through various channels i.e. contact form or social
+
+11. As the site owner of the website, I want to be able to view the class schedule on my mobile easily to plan my working time better
+
+12. As the site owner of the website, I want the members to feel comfortable training with our team by being able to access the information they need quickly
+
+13. As a site owner of the website, I want to be able to view the different types of membership succinctly and clearly to ensure I am offering my clients the right level of training.
+
+
+
+
+
+
+
+
