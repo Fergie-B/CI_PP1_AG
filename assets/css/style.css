@@ -709,6 +709,23 @@ footer h2 {
     }
 }
 
+@media (max-width: 400px) {
+    /* Media Query to move cover text to middle on small mobile devices */
+   #cover-text {
+        width: 300px;
+        height: 200px;
+    
+        padding-top: 10px;
+        padding-left: 10px;
+    
+        background-color: rgba(30, 133, 92, .6);
+    
+        bottom: 80px;
+        left: 3%;
+    
+        position: absolute;
+    }
+
 /* Center footer content on responsive */
 @media (max-width: 767px) {
     footer h2 {
