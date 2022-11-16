@@ -639,13 +639,14 @@ footer h2 {
     font-size: 20px;
     font-family: Hind, sans-serif;
     padding: 10px 20px 10px 20px;
-    background-color: var(--light-grey);
+    color: var(--onyx);
+    background-color: var(--off-white);
     border-color: var(--dark-green);
     display: block;
     margin: 0 auto;
     margin-top: 10px;
     margin-bottom: 60px;
-    max-width: 200px;
+    max-width: 160px;
 }
 
 .error-button a {
