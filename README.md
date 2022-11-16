@@ -130,6 +130,8 @@ The Website structure is laid out so every section is easy to navigate to. On De
 - A Classes page which provides a schedule of the available training times
 - A Sign up page where the user can register for a membership through an online form
 - A Contact Page which provides a Contact Form, the address of the Gym and a Google Location map
+- A Privacy Policy page with a basic structure
+- A 404 page with a Graphic and Button to bring the user to the Homepage
 
 
 ### Wireframes
@@ -148,6 +150,12 @@ The Website structure is laid out so every section is easy to navigate to. On De
 </details>
 <details><summary>Contact</summary>
 <img src="docs/wireframes/wireframes-contact.png">
+</details>
+<details><summary>Privacy Policy</summary>
+<img src="docs/wireframes/wireframes-privacy-policy.png">
+</details>
+<details><summary>404</summary>
+<img src="docs/wireframes/wireframes-404.png">
 </details>
 
 ## Technologies Used
@@ -172,7 +180,7 @@ The Website structure is laid out so every section is easy to navigate to. On De
 - [CSS Box-Shadow Generator](https://html-css-js.com/css/generator/box-shadow/)
 
 ## Features
-The Main features of the Apex Gym website span across five pages and include 11 sections
+The Main features of the Apex Gym website span across Seven pages and include 12 sections
 
 ### Header Section
 - Appears on all pages sitewide
@@ -274,6 +282,9 @@ The [W3C Markup Validation Service](https://validator.w3.org/) was used to check
 <details><summary>Privacy Policy page</summary>
 <img src="docs/validation/validation-html-privacy-policy.png">
 </details>
+<details><summary>404 page</summary>
+<img src="docs/validation/validation-html-404.png">
+</details>
 
 ### CSS Validation
 The [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/validator) was used to validate the sites css.
@@ -306,6 +317,9 @@ The site pages where checked using the [Web AIM Wave Web Accessibility Evaluatio
 <details><summary>Privacy Policy page</summary>
 <img src="docs/validation/validation-accessibility-privacy-policy.png">
 </details>
+<details><summary>Privacy Policy page</summary>
+<img src="docs/validation/validation-accessibility-404.png">
+</details>
 
 ### Performance Testing
 The website was tested in Google Lighthouse to see how it performs.
@@ -326,6 +340,9 @@ The website was tested in Google Lighthouse to see how it performs.
 </details>
 <details><summary>Privacy Policy page</summary>
 <img src="docs/validation/lighthouse-performance-privacy-policy.png">
+</details>
+<details><summary>404 page</summary>
+<img src="docs/validation/lighthouse-performance-404.png">
 </details>
 
 ### Device and Browser Testing
