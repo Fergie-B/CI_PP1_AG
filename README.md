@@ -1,6 +1,8 @@
 # Apex Gym
 (Developer: Barry Ferguson)
 
+![Mockup image}(docs/am-i-responsive.png)
+
 [Live Webpage] (https://fergie-b.github.io/CI_PP1_AG/)
 
 ## Table of Contents
