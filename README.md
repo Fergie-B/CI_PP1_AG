@@ -481,7 +481,10 @@ I deployed the website on Github pages as per the following instructions:
 4. The Webpage will generate and you will receive a message stating "Your site is published at https://fergie-b.github.io/CI_PP1_AG/"
 
 ## Credits
-Images used on the site are not the property of the developer unless stated
+
+### Media
+In order of Appearance:
+Images used on the site are not the property of the developer unless stated*
 - [Apex Gym Logo](assets/images/logo.svg): Designed in Adobe Illustrator by Developer
 - [Hero-Image](assets/images/hero-image.jpg) Photo by <a href="https://unsplash.com/@victorfreitas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Victor Freitas</a> on <a href="https://unsplash.com/s/photos/group-training?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 - [Intro-Image](assets/images/intro-image.jpg) Photo by <a href="https://unsplash.com/@element5digital?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Element5 Digital</a> on <a href="https://unsplash.com/s/photos/group-gym?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -492,6 +495,16 @@ Images used on the site are not the property of the developer unless stated
 - The Website video was sourced from [Youtube](https://www.youtube.com/watch?v=3wY3PlnVzGs)
 - The Column Background SVGs [Gold](assets/images/gold.svg), [Silver](assets/images/silver.svg), and [Bronze](assets/images/bronze.svg) were generated in Adobe Illustrator by the Developer
 - The [404 Image](assets/images/404.svg) was generated in Adobe Illustrator by the Developer
+
+### Code
+The Bootstrap Navbar code snippet "Navbar without List items" was ttaken from the Bootstrap site at:
+https://getbootstrap.com/docs/5.0/components/navbar/#
+The Cover text fade in animation was based on this [Tutorial](https://www.tutorialspoint.com/css/css_animation_fade_in_left.html)
+The Sign Up and Contact Forms components were built from code found on the [Bootstrap Site](https://getbootstrap.com/docs/5.0/forms/overview/#overview)
+The 404 Page was built using instructions from [Github](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+
+## Acknowledgements
+I would like to thank my Mentor, Mo Shami for his advice on where to take this project.
 
 
   
