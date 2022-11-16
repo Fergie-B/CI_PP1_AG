@@ -363,10 +363,11 @@ h3 {
 
 footer {
     width: 100%;
-    background-color: var(--bright-green);
+    background-color: var(--light-grey);
 }
 
 footer h2 {
+    color: var(--bright-green);
     font-size: 200%;
     text-align: left;
     padding-top: 40px;
@@ -381,11 +382,11 @@ footer h2 {
 .social-networks i {
     font-size: 300%;
     padding: 20px 20px 20px 0;
-    color: var(--dark-green);
+    color: var(--bright-green);
 }
 
 .social-networks i:hover {
-    color: var(--off-white);
+    color: var(--dark-green);
 }
 
 .footer-links {
@@ -394,24 +395,23 @@ footer h2 {
 
 /* Applied Flex Styles to position footer links */
 .footer-links ul {
-    background-color: var(--onyx);
     margin-left: auto;
     align-self: flex-end;
 }
 
 .footer-links li {
     display: inline;
-    color: var(--off-white);
+    color: var(--onyx);
     margin-right: 10px;
 }
 
 .footer-links li a {
-    color: var(--off-white);
+    color: var(--onyx);
     text-decoration: none;
 }
 
 .footer-links li a:hover {
-    color: var(--dark-green);
+    color: var(--bright-green);
 }
 
 /* About Section Styling rules */
