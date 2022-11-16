@@ -321,29 +321,147 @@ Apex Gym Website was tested on the devices and browsers listed:
 
 1. As a first-time user of the website, I want to be able to view the class schedule
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Class Schedule | Navigate to the Classes page | Find the Schedule of Class Times | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1.png">
+</details>
+
 2. As a first-time user of the website, I want to be able to find information on the membership types so that I get the most out of the training
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Training Plan Columns | On the Home page, scroll down to the Training Plan Section | View the Training Plans | Works as expected |
+| Training Plan Columns | On any page, scroll down to the Training Plan Section  | View the Training Plans | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-2-v1.png">
+<img src="docs/user-story-testing/user-story-2-v2.png">
+</details>
 
 3. As a first-time user of the website, I want to be able to contact the gym for further information on the membership types
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | On any page, click the link in the top navbar | View the Contact form | Works as expected |
+| Social Media Links | On any page, scroll down to the Footer  | View the Social Media Links | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-3-v1.png">
+<img src="docs/user-story-testing/user-story-3-v2.png">
+</details>
+
 4. As a first-time user of the website, I want to find out where the gym is on a map
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | On any page, click the link in the top navbar | View the Map on the Contact page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-4.png">
+</details>
 
 5. As a first-time user of the website, I want to know if the trainers have the proper qualifications
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Training Team | On About Page scroll to Team Section | Hover over image to see the qualifications | Works as expected |
+| Training Team | On Home page Welcome section click link to go to About page  | Hover over image to see the qualifications | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-5-v1.png">
+<img src="docs/user-story-testing/user-story-5-v2.png">
+</details>
+
 6. As a first-time user of the website, I want to be able to view the business on Social Media platforms to get a feel for the gym
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Social Media Links | On any page scroll to the footer | View the Social media links | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-6.png">
+</details>
 
 7. As a returning user of the website, I want to be able to register as a member quickly and easily
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Sign Up Form | On the Home page click "sign up now" cta in the Hero Section | Sign up page opens | Works as expected |
+| Sign Up Form | On any page click the Sign Up link in the top navbar  | View the Sign up form | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7-v1.png">
+<img src="docs/user-story-testing/user-story-7-v2.png">
+</details>
+
 8. As a returning user of the website, I want to be able to view the class schedule so that I can plan which classes I expect to attend
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Classes Schedule | On any page click the Classes link in the top navbar | View the Class Schedule | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-8.png">
+</details>
 
 9. As a returning user of the website, I want to be able to view the class schedule to see if it aligns with my work hours
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Classes Schedule | On any page click the Classes link in the top navbar | View the Class Schedule | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-9.png">
+</details>
+
 10. As a returning user of the website, I want to be able to contact the staff through various channels i.e. contact form or social
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | On any page, click the link in the top navbar | View the Contact form | Works as expected |
+| Social Media Links | On any page, scroll down to the Footer  | View the Social Media Links | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-10-v1.png">
+<img src="docs/user-story-testing/user-story-10-v2.png">
+</details>
 
 11. As the site owner of the website, I want to be able to view the class schedule on my mobile easily to plan my working time better
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Classes Schedule | On any page on mobile click the Classes link in the collapsed navbar | View the Class Schedule | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-11.png">
+</details>
+
 12. As the site owner of the website, I want the members to feel comfortable training with our team by being able to access the information they need quickly
 
-13. As a site owner of the website, I want to be able to view the different types of membership succinctly and clearly to ensure I am offering my clients the right level of training.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navbar | On any page, click the links in the top navbar | View the Information required | Works as expected |
+| Footer | On any page, scroll down to the Footer  | View the Information required | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-12-v1.png">
+<img src="docs/user-story-testing/user-story-12-v2.png">
+</details>
+
+13. As a site owner of the website, I want to be able to view the different types of membership succinctly and clearly to ensure I am offering my clients the right level of training
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Training Plan Columns | On the Home page, scroll down to the Training Plan Section | View the Training Plans | Works as expected |
+| Training Plan Columns | On any page, scroll down to the Training Plan Section  | View the Training Plans | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-13-v1.png">
+<img src="docs/user-story-testing/user-story-13-v2.png">
+</details>
 
 
 
