@@ -27,9 +27,8 @@
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
+    5. [Device and Browser testing](#device-and-browser-testing)
+    6. [Testing user stories](#testing-user-stories)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
@@ -311,3 +310,9 @@ The website was tested in Google Lighthouse to see how it performs.
 <img src="docs/validation/lighthouse-performance-privacy-policy.png">
 </details>
 
+### Device and Browser Testing
+Apex Gym Website was tested on the devices and browsers listed:
+- Microsoft Surface Pro - Firefox
+- IPad Mini - Safari, Google Chrome
+- Samsung Galaxy A53 - Google Chrome
+- Windows Desktop - Firefox, Chrome, Edge
