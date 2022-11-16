@@ -10,7 +10,8 @@
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Stories](#user-stories)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
+    3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
     2. [Colour](#colours)
@@ -55,6 +56,14 @@
 - People looking to lose weight/improve fitness health
 - Social Gym goers
 - Fitness Trainers/Students
+
+### User Requirements and Expectations
+- A Navigation system that lets the user find they are looking for within two clicks
+- Strong presentation that conveys the brand ethos
+- A site that is viewable across all devices
+- Presentation of multiple ways to contact the business
+- Content and features that let the user find the information they need
+- Accesibility for all users needs
 
 ### User Stories
 
