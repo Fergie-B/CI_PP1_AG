@@ -472,14 +472,15 @@ Apex Gym Website was tested on the devices and browsers listed:
 | Accessibility Issues in Footer | Changed Footer background colour and Text styling to comply |
 | Hero Section Button appears too big on mobile | Fixed this with a media query to change the positioning and sizing |
 
-###Deployment
+## Deployment
+
 I deployed the website on Github pages as per the following instructions:
 1. In your Github Repository click on the Settings link in the tob sub navbar
 2. In the left sidebar click on the Pages link
 3. Select your branch as 'Main' and 'Root'
 4. The Webpage will generate and you will receive a message stating "Your site is published at https://fergie-b.github.io/CI_PP1_AG/"
 
-### Credits
+## Credits
 Images used on the site are not the property of the developer unless stated
 - [Apex Gym Logo](assets/images/logo.svg): Designed in Adobe Illustrator by Developer
 - [Hero-Image](assets/images/hero-image.jpg) Photo by <a href="https://unsplash.com/@victorfreitas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Victor Freitas</a> on <a href="https://unsplash.com/s/photos/group-training?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
