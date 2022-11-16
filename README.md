@@ -463,6 +463,38 @@ Apex Gym Website was tested on the devices and browsers listed:
 <img src="docs/user-story-testing/user-story-13-v2.png">
 </details>
 
+## Bugs
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Classes schedule overlapping right edge on mobile | Added Bootstrap class Table Responsive in HTML |
+| Accessibiltiy Issues in Navbar | Changed active class to Bold Text |
+| Accessibility Issues in Footer | Changed Footer background colour and Text styling to comply |
+| Hero Section Button appears too big on mobile | Fixed this with a media query to change the positioning and sizing |
+
+##Deployment
+I deployed the website on Github pages as per the following instructions:
+1. In your Github Repository click on the Settings link in the tob sub navbar
+2. In the left sidebar click on the Pages link
+3. Select your branch as 'Main' and 'Root'
+4. The Webpage will generate and you will receive a message stating "Your site is published at https://fergie-b.github.io/CI_PP1_AG/"
+
+## Credits
+Images used on the site are not the property of the developer unless stated
+- [Apex Gym Logo](assets/images/logo.svg): Designed in Adobe Illustrator by Developer
+- [Hero-Image](assets/images/hero-image.jpg)Photo by <a href="https://unsplash.com/@victorfreitas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Victor Freitas</a> on <a href="https://unsplash.com/s/photos/group-training?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- [Intro-Image](assets/images/intro-image.jpg)Photo by <a href="https://unsplash.com/@element5digital?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Element5 Digital</a> on <a href="https://unsplash.com/s/photos/group-gym?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- [About-Image](assets/images/about-image.jpg)Photo by [Victor Freitas](https://www.pexels.com/photo/10-lb-rogue-weight-plate-near-people-gathered-703016/)
+- [Trainer-1](assets/images/trainer-1.jpg)Photo by <a href="https://unsplash.com/@lgnwvr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">LOGAN WEAVER | @LGNWVR</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- [Trainer-2](assets/images/trainer-2.jpg)Photo by <a href="https://unsplash.com/@samuelgirven?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Samuel Girven</a> on <a href="https://unsplash.com/s/photos/personal-trainer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- [Trainer-3](assets/images/trainer-3.jpg)Photo by <a href="https://unsplash.com/@lollish?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lorenzo Fattò Offidani</a> on <a href="https://unsplash.com/s/photos/athlete?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- The Website video was sourced from [Youtube](https://www.youtube.com/watch?v=3wY3PlnVzGs)
+- The Column Background SVGs [Gold](assets/images/gold.svg), [Silver](assets/images/silver.svg), and [Bronze](assets/images/bronze.svg) were generated in Adobe Illustrator by the Developer
+- The [404 Image](assets/images/404.svg) was generated in Adobe Illustrator by the Developer
+
+
+  
+
 
 
 
