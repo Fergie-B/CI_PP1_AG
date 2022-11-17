@@ -332,7 +332,7 @@ The site pages where checked using the [Web AIM Wave Web Accessibility Evaluatio
 <details><summary>Privacy Policy page</summary>
 <img src="docs/validation/validation-accessibility-privacy-policy.png">
 </details>
-<details><summary>Privacy Policy page</summary>
+<details><summary>404 page</summary>
 <img src="docs/validation/validation-accessibility-404.png">
 </details>
 
@@ -500,6 +500,7 @@ Apex Gym Website was tested on the devices and browsers listed:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-12-v1.png">
 <img src="docs/user-story-testing/user-story-12-v2.png">
+<img src="docs/user-story-testing/user-story-12-v3.png">
 </details>
 
 13. As a site owner of the website, I want to be able to view the different types of membership succinctly and clearly to ensure I am offering my clients the right level of training
@@ -512,7 +513,6 @@ Apex Gym Website was tested on the devices and browsers listed:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-13-v1.png">
 <img src="docs/user-story-testing/user-story-13-v2.png">
-<img src="docs/user-story-testing/user-story-13-v3.png">
 </details>
 
 14. As the site owner I want the user to be still able to find what they want if they make a mistake on the site
