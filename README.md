@@ -542,6 +542,21 @@ I deployed the website on Github pages as per the following instructions:
 3. Select your branch as 'Main' and 'Root'
 4. The Webpage will generate and you will receive a message stating "Your site is published at https://fergie-b.github.io/CI_PP1_AG/"
 
+To fork a repository, follow these steps:
+1. Navigate to the chosen repository
+2. Click the Fork Icon on the button in the top right hand corner
+3. Choose an optional name and description for your fork
+4. Choose the desired forking scenario and click ####Create
+
+To Clone a directory
+1. On your Github repository, look at the area above the list of files
+2. Click the Button with the down arrow marked 'Code'
+3. Copy the URL for the repository under one of the three options: HTTPS, SSH or GitHub CLI
+4. Open Git bash
+5. Change the name of the current directory to your chosen location
+6. Type in 'git clone' and paste your copied URL
+7. Hit Enter and create your clone
+
 ## Credits
 
 ### Media
