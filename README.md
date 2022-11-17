@@ -80,16 +80,17 @@
 
 ### Returning User
 #### User: Tony McGuiness, Builder, Age 27
-1.	As a returning user of the website, I want to be able to register as a member quickly and easily.
-2.	As a returning user of the website, I want to be able to view the class schedule so that I can plan which classes I expect to attend.
-3.	As a returning user of the website, I want to be able to view the class schedule to see if it aligns with my work hours.
-4.	As a returning user of the website, I want to be able to contact the staff through various channels i.e. contact form or social
+7.	As a returning user of the website, I want to be able to register as a member quickly and easily.
+8.	As a returning user of the website, I want to be able to view the class schedule so that I can plan which classes I expect to attend.
+9.	As a returning user of the website, I want to be able to view the class schedule to see if it aligns with my work hours.
+10.	As a returning user of the website, I want to be able to contact the staff through various channels i.e. contact form or social
 
 ### Site Owner
 #### User: Liam Kavanagh, Trainer and Manager at Apex Gym, Age 31
-1.	As the site owner of the website, I want to be able to view the class schedule on my mobile easily to plan my working time better.
-2.	As the site owner of the website, I want the members to feel comfortable training with our team by being able to access the information they need quickly
-3.	As a site owner of the website, I want to be able to view the different types of membership succinctly and clearly to ensure I am offering my clients the right level of training.
+11.	As the site owner of the website, I want to be able to view the class schedule on my mobile easily to plan my working time better.
+12.	As the site owner of the website, I want the members to feel comfortable training with our team by being able to access the information they need quickly
+13.	As a site owner of the website, I want to be able to view the different types of membership succinctly and clearly to ensure I am offering my clients the right level of training.
+14.	As the site owner I want the user to be still able to find what they want if they make a mistake on the site
 
 ## Design
 
@@ -254,6 +255,18 @@ The Main features of the Apex Gym website span across Seven pages and include 12
 - User stories covered: 3, 4, 10
 
 ![Contact](docs/features/features-contact-section.png)
+
+### Privacy Section
+- Information on the way the customers data is handled
+- User stories covered:
+
+![Privacy](docs/features/features-privacy-section.png)
+
+### 404 Section
+- A section containing an image of an erro message and a Home button to direct the user
+- User stories covered: 12, 14
+
+![404](docs/features/features-404-section.png)
 
 ### Footer
 - Includes a column containing links to the Gyms three Social Media accounts
@@ -482,6 +495,7 @@ Apex Gym Website was tested on the devices and browsers listed:
 |-------------|------------|---------------------|-------------------|
 | Navbar | On any page, click the links in the top navbar | View the Information required | Works as expected |
 | Footer | On any page, scroll down to the Footer  | View the Information required | Works as expected |
+| 404 Image | On error 404 click the Home Button | Brought back to the Home page | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-12-v1.png">
@@ -498,6 +512,17 @@ Apex Gym Website was tested on the devices and browsers listed:
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-13-v1.png">
 <img src="docs/user-story-testing/user-story-13-v2.png">
+<img src="docs/user-story-testing/user-story-13-v3.png">
+</details>
+
+14. As the site owner I want the user to be still able to find what they want if they make a mistake on the site
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 404 Image | On error 404 click the Home Button | Brought back to the Home page | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-14.png">
 </details>
 
 ## Bugs
